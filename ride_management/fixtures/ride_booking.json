@@ -1,0 +1,83 @@
+[
+ {
+  "booking_date": "2025-10-17",
+  "customer": "Tushar",
+  "customer_name": "Tushar",
+  "docstatus": 0,
+  "doctype": "Ride Booking",
+  "estimated_km": 15.0,
+  "make": "Tushar Patel",
+  "modified": "2025-10-17 15:13:14.661702",
+  "name": "Tushar Patel20250001",
+  "naming_series": ".vehicle.YYYY.####",
+  "phone_number": null,
+  "price_per_km": 100.0,
+  "return_date": "2025-10-31",
+  "services": [
+   {
+    "amount": 1500.0,
+    "parent": "Tushar Patel20250001",
+    "parentfield": "services",
+    "parenttype": "Ride Booking",
+    "service": "Tourist Guides"
+   }
+  ],
+  "total_amount": 3000.0,
+  "type": "Auto",
+  "vehicle": "Tushar Patel"
+ },
+ {
+  "booking_date": "2025-10-17",
+  "customer": "Tushar Patel",
+  "customer_name": "Tushar Patel",
+  "docstatus": 0,
+  "doctype": "Ride Booking",
+  "estimated_km": 14.0,
+  "make": "Tushar Patel 2",
+  "modified": "2025-10-17 15:13:57.011037",
+  "name": "Tushar Patel 220250001",
+  "naming_series": ".vehicle.YYYY.####",
+  "phone_number": "+91-7580862955",
+  "price_per_km": 250.0,
+  "return_date": "2025-10-30",
+  "services": [
+   {
+    "amount": 1000.0,
+    "parent": "Tushar Patel 220250001",
+    "parentfield": "services",
+    "parenttype": "Ride Booking",
+    "service": "Travel Insurance"
+   }
+  ],
+  "total_amount": 4500.0,
+  "type": "Cab",
+  "vehicle": "Tushar Patel 2"
+ },
+ {
+  "booking_date": "2025-10-17",
+  "customer": "Tushar Patel",
+  "customer_name": "Tushar Patel",
+  "docstatus": 0,
+  "doctype": "Ride Booking",
+  "estimated_km": 13.0,
+  "make": "Tushar Patel 3",
+  "modified": "2025-10-17 15:14:23.956977",
+  "name": "Tushar Patel 320250001",
+  "naming_series": ".vehicle.YYYY.####",
+  "phone_number": "+91-7580862955",
+  "price_per_km": 350.0,
+  "return_date": "2025-10-29",
+  "services": [
+   {
+    "amount": 500.0,
+    "parent": "Tushar Patel 320250001",
+    "parentfield": "services",
+    "parenttype": "Ride Booking",
+    "service": "Wi-Fi Access"
+   }
+  ],
+  "total_amount": 5050.0,
+  "type": "Car",
+  "vehicle": "Tushar Patel 3"
+ }
+]

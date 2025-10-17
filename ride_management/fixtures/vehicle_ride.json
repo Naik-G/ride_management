@@ -1,0 +1,32 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Vehicle Ride",
+  "image": "/private/files/capture_2025_10_17_14_27_40.png",
+  "make": "Tushar Patel 3",
+  "modified": "2025-10-17 14:27:41.961038",
+  "name": "Tushar Patel 3",
+  "price_per_km": 350.0,
+  "type": "Car"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Vehicle Ride",
+  "image": "/private/files/capture_2025_10_17_14_26_12.png",
+  "make": "Tushar Patel",
+  "modified": "2025-10-17 14:26:14.940173",
+  "name": "Tushar Patel",
+  "price_per_km": 100.0,
+  "type": "Auto"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Vehicle Ride",
+  "image": "/private/files/capture_2025_10_17_14_26_54.png",
+  "make": "Tushar Patel 2",
+  "modified": "2025-10-17 14:26:56.436613",
+  "name": "Tushar Patel 2",
+  "price_per_km": 250.0,
+  "type": "Cab"
+ }
+]
